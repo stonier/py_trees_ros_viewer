@@ -66,7 +66,7 @@ setup(
     #     'install': OverrideInstall
     # },
     name=package_name,
-    version='0.2.3',  # also package.xml
+    version='0.2.4',  # also package.xml
     packages=find_packages(exclude=['tests*', 'docs*']),
     data_files=[('share/' + package_name, ['package.xml'])],
     # scripts=['scripts/py-trees-devel-viewer'], not working, but not critical
@@ -74,7 +74,7 @@ setup(
     install_requires=[],  # it's all lies (c.f. package.xml, but no use case for this yet)
     extras_require={},
     author='Daniel Stonier',
-    maintainer='Daniel Stonier <d.stonier@gmail.com>',
+    maintainer='Daniel Stonier <d.stonier@gmail.com>, Sebastian Castro <sebas.a.castro@gmail.com>',
     url='https://github.com/splintered-reality/py_trees_ros_viewer',
     keywords=['ROS', 'ROS2', 'behaviour-trees', 'Qt', 'Visualisation'],
     zip_safe=True,
