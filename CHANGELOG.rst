@@ -4,7 +4,9 @@ Changelog
 
 Forthcoming
 -----------
-* ...
+* Update deprecated QoS settings (`#34 <https://github.com/splintered-reality/py_trees_ros_viewer/issues/34>`_)
+* [infra] resolve chrome 80+ incompatibility (`#32 <https://github.com/splintered-reality/py_trees_ros_viewer/issues/32>`_)
+* Contributors: Daniel Stonier, Sebastian Castro
 
 0.2.3 (2020-02-24)
 ------------------

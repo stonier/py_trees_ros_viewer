@@ -7,8 +7,9 @@
     A Qt-JS application for visualisation of executing/log-replayed behaviour trees in a ROS2 ecosystem.
   </description>
 
+  <author email="d.stonier@gmail.com">Daniel Stonier</author>
   <maintainer email="d.stonier@gmail.com">Daniel Stonier</maintainer>
-  <author>Daniel Stonier</author>
+  <maintainer email="sebas.a.castro@gmail.com">Sebastian Castro</maintainer>
 
   <license>BSD</license>
 
