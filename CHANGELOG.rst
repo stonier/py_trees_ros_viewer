@@ -2,6 +2,13 @@
 Changelog
 =========
 
+Forthcoming
+-----------
+* [readme] Small tweaks (`#41 <https://github.com/splintered-reality/py_trees_ros_viewer/issues/41>`_)
+* [infra] Fix repo URL in package.xml
+* [infra] Add dummy test to make buildfarm happy (`#40 <https://github.com/splintered-reality/py_trees_ros_viewer/issues/40>`_)
+* Contributors: Sebastian Castro
+
 0.2.4 (2025-01-11)
 ------------------
 * [code] Fixed Namespace switching error (`#35 <https://github.com/splintered-reality/py_trees_ros_viewer/issues/35>`_)
