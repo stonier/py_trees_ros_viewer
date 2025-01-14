@@ -2,8 +2,8 @@
 Changelog
 =========
 
-Forthcoming
------------
+0.2.5 (2025-01-13)
+------------------
 * [readme] Small tweaks (`#41 <https://github.com/splintered-reality/py_trees_ros_viewer/issues/41>`_)
 * [infra] Fix repo URL in package.xml
 * [infra] Add dummy test to make buildfarm happy (`#40 <https://github.com/splintered-reality/py_trees_ros_viewer/issues/40>`_)
